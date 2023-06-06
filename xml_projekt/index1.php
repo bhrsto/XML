@@ -1,5 +1,4 @@
 <?php
-// Učitavanje XML datoteke
 $xml = simplexml_load_file('playlist.xml');
 
 // Dodavanje pjesme
