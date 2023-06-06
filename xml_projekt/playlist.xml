@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist>
+  <pjesma id="1">
+    <izvodac>Prljavo Kazalište</izvodac>
+    <naziv>Sve je lako kad si mlad</naziv>
+    <album>Korak od sna</album>
+    <trajanje>3:17</trajanje>
+  </pjesma>
+  <pjesma>
+    <izvodac>Gibboni</izvodac>
+    <naziv>Zlatne godine</naziv>
+    <album>Zlatne godine</album>
+    <trajanje>3:56</trajanje>
+  </pjesma>
+  <pjesma>
+    <izvodac>Oliver Dragijević</izvodac>
+    <naziv>Cesarica</naziv>
+    <album>Cesarica</album>
+    <trajanje>4:17</trajanje>
+  </pjesma>
+</playlist>
